@@ -212,7 +212,7 @@
                                     @change="putImgToCanv"
                                     ref="inputFile"
                                     type="file"
-                                    accept="image/gif, image/jpeg ,image/png"
+                                    accept="image/gif, image/jpeg ,image/png, image/webp"
                                     style="width: 1px; height: 1px; border: none; opacity: 0"
                                 />
                                 <span @click="chooseImg">
