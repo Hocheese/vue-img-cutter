@@ -26,7 +26,7 @@
     "main": "./src/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/acccccccb/vue-img-cutter.git"
+        "url": "git+https://github.com/Hocheese/vue-img-cutter.git"
     },
     "keywords": [
         "image",
